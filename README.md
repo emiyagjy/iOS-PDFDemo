@@ -74,7 +74,7 @@ context.restoreGState()
 	
 ```
 #### 4、iOS 11 新出的 PDFKit
-![mypic1]({{site.url}}/img/postsimgs/2018-03-08-pic1.png)
+![mypic1](http://emiyagjy.me/img/postsimgs/2018-03-08-pic1.png)
 
 ```
 if let documentURL = Bundle.main.url(forResource: "Sample", withExtension: "pdf") {
